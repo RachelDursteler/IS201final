@@ -1,0 +1,64 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.header{
+    background-color: rgba(54, 129, 143, 0.897);
+    color: lightgray;
+    height: 100px;
+    line-height: 85px;
+}
+.mainbody{
+    background-color: rgb(52, 224, 224);
+}
+
+.footer{
+    background-color:#36454F;
+    height: 25px;
+    bottom: 0px;
+    position:fixed;
+    left: 5px;
+    right: 5px;
+    padding-top: 15px;
+    font-size: 10px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.common{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+nav{
+    background-color: #36454F;
+    padding: 10px;
+    overflow: hidden;
+}
+
+p{
+    position: relative;
+    font-size: 20px;
+    color: lightgray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+ol{
+    position: relative;
+    font-size: 20px;
+    color: lightgray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h3{
+    position: relative;
+    font-size: 20px;
+    color: lightgray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+a{
+    color: white;
+}
